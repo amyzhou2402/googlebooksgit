@@ -1,0 +1,5 @@
+url = ""
+
+const fetchFromURL = (url) => {
+
+}

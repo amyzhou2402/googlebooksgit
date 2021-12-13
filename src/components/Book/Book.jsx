@@ -1,5 +1,8 @@
 import styles from "./Book.module.scss";
 
-const Book = () => {};
+const Book = () => {
+}
+
+
 
 export default Book;
